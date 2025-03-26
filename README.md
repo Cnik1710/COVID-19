@@ -1,9 +1,9 @@
 # COVID-19 Data Analysis Case Study
 
-Objective
+## Objective
 The COVID-19 pandemic, caused by the SARS-CoV-2 virus, emerged in late 2019 and rapidly spread worldwide, leading to significant health, economic, and social consequences. This case study aims to analyze COVID-19 data to extract meaningful insights regarding the virus's spread, mortality, and recovery rates. By leveraging Python for data analysis, this project will help in understanding the dynamics of the pandemic and its impact across different regions.
 
-Dataset Details
+## Dataset Details
 This case study utilizes three key datasets that provide daily updates on different aspects of the pandemic across various countries and regions:
 
 - Confirmed Cases Dataset: Contains cumulative confirmed COVID-19 cases per day for each country and region. The data spans from January 22, 2020, to May 29, 2021, covering over 276 geographic entries.
@@ -16,7 +16,7 @@ Each dataset consists of the following columns:
 - Latitude & Longitude: Geographic coordinates.
 - Date Columns: Cumulative totals for confirmed cases, deaths, or recoveries recorded daily.
 
-Analysis Questions
+## Analysis Questions
  1. Data Loading
 - How do you load the COVID-19 datasets for confirmed cases, deaths, and recoveries into Python using Pandas?
 
